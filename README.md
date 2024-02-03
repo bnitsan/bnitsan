@@ -1,4 +1,4 @@
-👋 Hi, I’m Nitsan Bar, formerly a Physics PhD student at the Weizmann Institute of Science, Israel, now an AI enthusiast
+👋 Hi, I’m Nitsan Bar, a Physics PhD graduate from the Weizmann Institute of Science, Israel, now an AI enthusiast
 
 <!---
 bnitsan/bnitsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
